@@ -1,3 +1,6 @@
+> [!WARNING]
+> **This fork is no longer maintained.** The WebGPU acceleration here delivered large speedups on many demos, but performance was not stable across all of them — interactive editing in particular. Development has moved to a ground-up remake: **[shihanqu/entendue](https://github.com/shihanqu/entendue)**.
+
 ![Example figure](https://raw.githubusercontent.com/shihanqu/ray-optics-webgpu/master/src/img/spherical-lens-and-mirror.jpg)
 
 # Ray Optics WebGPU
